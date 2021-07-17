@@ -1,0 +1,25 @@
+{
+  "name": "html_css_bootstrap_react_mongodb_node",
+  "version": "1.0.0",
+  "description": "directory for learning git node react mongodb and front end ",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite":"lite-server"
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apex-predat0r/Html_css_bootstrap_react_mongodb_node_coursera.git"
+  },
+  "author": "Lalit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apex-predat0r/Html_css_bootstrap_react_mongodb_node_coursera/issues"
+  },
+  "homepage": "https://github.com/apex-predat0r/Html_css_bootstrap_react_mongodb_node_coursera#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
